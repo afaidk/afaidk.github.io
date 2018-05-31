@@ -1,11 +1,11 @@
 # Site settings
-title: osslvr - This is my personal space
+title: afaidk - This is my personal space
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-copyright_name: osslvr
+copyright_name: afaidk
 description: "This is my personal space!"
 baseurl: #"/path"
-url: "https://osslvr.github.io"
+url: "https://afaidk.github.io"
 twitter_username: #SBootstrap
 github_username:  #davidtmiller
 facebook_username: # StartBootstrap
