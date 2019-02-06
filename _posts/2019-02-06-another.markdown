@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Second post"
+subtitle:   "This is my first blog post."
+date:       2019-02-06 14:27:00
+author:     "afaidk"
+header-img: "img/post-bg-04.jpg"
+tags: [random]
+---
+
+<h2 class="section-heading">Started again</h2>
+
+<p>This is my third st post in this blog.</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">Planning to start again.</span>
+
+<p>Stay tuned for more.</p>
