@@ -6,5 +6,15 @@ header-img: "img/contact-me.jpg"
 ---
 <p>Send me a message and I will get back to you as soon as possible</p>
 
-<form action="https://sarbot-shameer.herokuapp.com/send_message" method="POST" id="contactForm">
-test</form>
+<div class="row">
+	<div class="col-md-3">
+				<h2>Contact Us</h2>
+				<h4>We would love to hear from you !</h4>
+	</div>
+	<div class="col-md-9">
+		<form action="https://sarbot-shameer.herokuapp.com/send_message" method="POST" id="contactForm">
+		         <p>Message <input type = "text" name = "msg" autofocus /></p>
+		         <p><input type = "submit" value = "submit" /></p>
+		</form>
+	</div>
+</div>
